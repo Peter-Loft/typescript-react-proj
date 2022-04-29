@@ -7,9 +7,9 @@ function ProjectsPage() {
       <h1>Projects</h1>
       <pre>
         {JSON.stringify(MOCK_PROJECTS,null," ")}
-        </pre>
+      </pre>
     </>
-    )
+    );
 }
 
 export default ProjectsPage;

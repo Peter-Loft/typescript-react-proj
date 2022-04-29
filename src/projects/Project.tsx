@@ -1,3 +1,13 @@
+/**
+ * Project Class
+ * 
+ * The class which will contain all relevant details of a single project
+ * together in one object. 
+ * 
+ * Constructor expects to receive a POJO instance containing all the 
+ * necessary date with respective keys for the new instance of the Project class.
+ * Class instances can be created without complete information.
+ */
 export class Project {
   id: number | undefined;
   name: string = '';
