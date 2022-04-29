@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+snip-master
 /.pnp
 .pnp.js
 
